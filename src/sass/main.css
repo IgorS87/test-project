@@ -28,4 +28,8 @@
   background-size: cover;
   background-position: center;
 }
+
+body {
+  background-color: tomato;
+}
 /*# sourceMappingURL=main.css.map */
